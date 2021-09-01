@@ -82,6 +82,11 @@ A cada frame da simulação a cor de cada quadrado se torna a média das cores d
 <img src="Imagens/lampada.png" alt="Logo">
 </p>
 
+* Ponto único preto em fundo branco
+
+<p align="center">
+<img src="Imagens/pontoPreto.png" alt="Logo">
+</p>
 
 # Como utilizar
 
