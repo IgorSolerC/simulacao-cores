@@ -25,6 +25,9 @@
       <ul>
         <li><a href="#regras">Regras</a></li>
       </ul>
+      <ul>
+        <li><a href="#exemplos">Exemplos</a></li>
+      </ul>
     </li>
     <li>
       <a href="#como-utilizar">Como utilizar</a>
@@ -58,6 +61,27 @@ O tabuleiro desta simulação é um grid composto por 64x32 quadrados que possue
 A cada frame da simulação a cor de cada quadrado se torna a média das cores dele e dos quadrados a sua volta. Desta forma se há um só ponto branco em um fundo preto, eventualmente toda a tela ficará um pouco mais clara, visto que os pontos pretos vão escurecer o branco, mas o branco vai esclareces os pontos pretos.
 
 É possível criar pontos que não são afetados pelas cores a sua volta. Esses pontos, chamados de "pontos de cor", espalham a propria cor sem que a sua propria cor mude.
+
+## Exemplos
+
+* Placa neon de "OPEN"
+
+<p align="center">
+<img src="Imagens/open.png" alt="Logo">
+</p>
+
+* Praia
+
+<p align="center">
+<img src="Imagens/praia.png" alt="Logo">
+</p>
+
+* Lâmpada
+
+<p align="center">
+<img src="Imagens/lampada.png" alt="Logo">
+</p>
+
 
 # Como utilizar
 
