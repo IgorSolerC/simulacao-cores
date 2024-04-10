@@ -1,4 +1,4 @@
-# Simulação Cores
+# Glowing Painter
 
 <!-- LOGO -->
 <p align="center">
